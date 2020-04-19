@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_android_simplest_dagger2.iml" filepath="$PROJECT_DIR$/demo_android_simplest_dagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_android_simplest_dagger2_part5.iml" filepath="$PROJECT_DIR$/demo_android_simplest_dagger2_part5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_android_simplest_dagger2_part6.iml" filepath="$PROJECT_DIR$/demo_android_simplest_dagger2_part6.iml" group="demo_android_simplest_dagger2_part6" />
+      <module fileurl="file://$PROJECT_DIR$/app/demo_android_simplest_dagger2_part6-app.iml" filepath="$PROJECT_DIR$/app/demo_android_simplest_dagger2_part6-app.iml" group="demo_android_simplest_dagger2_part6/app" />
     </modules>
   </component>
 </project>
